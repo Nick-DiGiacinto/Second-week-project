@@ -1,0 +1,88 @@
+/* Your styles here */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+p {
+  margin: 0.5em 0;
+}
+
+#Initialdiv {
+    background-color: #222f3e;
+    width: 100%;
+    height: 50 px;
+}
+
+#Seconddiv {
+    color: #eaeded;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #364759;
+}
+
+.text-center {
+    text-align: center;
+    width: 100%;
+}
+
+#Greenblock {
+   background-image: url(../images/bg-image.png); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+   height: 250 px;
+   color:#eaeded;
+   box-sizing:content-box;
+   text-align: center;
+   align-content: center;
+   border: 1px solid black
+}
+.bg-dark {
+    color: #eaeded;
+    background-color: #222f3e;
+}
+
+.bg-orange {
+    color:#eaeded;
+    background-color: #f56600;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom:4px;
+}
+
+.py-1 {
+    padding: 1rem 0;
+}
+
+#Endpage {
+    color: #eaeded;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #364759;
+    text-align: center;
+}
+
+#Footer {
+    background-color: #222f3e;
+    width: 100%;
+    height: 140px;
+    text-align: center;
+    margin:auto;
+}
